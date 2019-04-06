@@ -9,13 +9,6 @@ print(my_data[2:5])
 # prints (11, 22, 33, 44)
 print(my_data[:4])
 
-
-
-
-
-
-
-
 # elements from 5th to end
 # prints (55, 66, 77, 88, 99)
 print(my_data[4:])
