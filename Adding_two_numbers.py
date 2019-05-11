@@ -7,6 +7,8 @@ print("Testing cherry pick git command")
 
 print("second line added")
 
+
+print("third line added")
 # Adding the two given numbers
 sum = float(val1) + float(val2)
 
