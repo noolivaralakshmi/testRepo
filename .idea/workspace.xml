@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df1fe446-06d0-4649-98de-852a269815c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Adding_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Adding_two_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/if_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/if_statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_strings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Adding_two_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -293,15 +291,16 @@
       <workItem from="1553517807438" duration="5076000" />
       <workItem from="1554556257792" duration="1870000" />
       <workItem from="1554986586765" duration="745000" />
-      <workItem from="1557593393149" duration="459000" />
+      <workItem from="1557593393149" duration="1073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14211000" />
+    <option name="totallyTimeSpent" value="14825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -454,8 +453,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Adding_two_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
